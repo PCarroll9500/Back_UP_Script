@@ -1,4 +1,4 @@
-# Back_UP_Batch_Script
+# back_up_batch_script
 
 This Script was created with the purpose of making a one click back up for windows.
 
